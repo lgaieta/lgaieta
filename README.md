@@ -1,6 +1,5 @@
 ### 👋 Hi! I'm Luciano Aieta
 - I specialize in React and NextJS, also UI design with Figma.
-- I'm currently working on [@bell-developers](https://github.com/bell-developers).
 - You can contact me here: lgaieta.dev@gmail.com
 
 <!--
